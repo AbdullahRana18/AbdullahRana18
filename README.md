@@ -8,7 +8,7 @@ Assalamualaikum! I'm **Abdullah**, a passionate developer on a journey to become
 
 ## 🔧 Tech Stack
 
-- 💻 Frontend: HTML5, CSS3, JavaScript, Bootstrap, ReactJS
+- 💻 Frontend: HTML5, CSS3, JavaScript, Bootstrap, ReactJS, TailwindCSS
 - 🖥️ Backend: ASP.NET Core MVC, Web API, Entity Framework Core
 - 🗄️ Database: SQL Server, LINQ, EF Core Migrations
 - 🔧 Tools: Visual Studio, Postman, Git & GitHub, Swagger, Newtonsoft.Json
